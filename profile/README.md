@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://theorcarecovery.com/wp-content/uploads/2024/09/ORCA-Logo-w-Tag.png" width="340" alt="ORCA Recovery — Organization of Recovery and Crisis Advisors" />
+<img src="https://theorcarecovery.com/wp-content/uploads/2024/09/ORCA-Logo-w-Tag.png" width="340" alt="ORCA Recovery, Organization of Recovery and Crisis Advisors" />
 
 <h3>Helping Families Navigate Addiction and Mental Health Crises</h3>
 
@@ -41,12 +41,12 @@ Recovery does not end after treatment. We provide ongoing peer support and compa
 
 Four principles guide every decision we make and every family we serve.
 
-| | |
-|---|---|
-| **O — Ownership** | We take full responsibility for the families we work with, treating every case as if it were our own. Accountability drives results. |
-| **R — Resilience** | Recovery is never a straight line. We stay the course through setbacks, celebrating progress and adapting when challenges arise. |
-| **C — Community** | Healing happens in connection. We build a support network around each family, ensuring no one walks the path alone. |
-| **A — Adaptability** | Every family is different. We tailor our approach to each unique situation, adjusting as needs evolve throughout the journey. |
+| | | |
+|:--:|---|---|
+| **O** | **Ownership** | We take full responsibility for the families we work with, treating every case as if it were our own. Accountability drives results. |
+| **R** | **Resilience** | Recovery is never a straight line. We stay the course through setbacks, celebrating progress and adapting when challenges arise. |
+| **C** | **Community** | Healing happens in connection. We build a support network around each family, ensuring no one walks the path alone. |
+| **A** | **Adaptability** | Every family is different. We tailor our approach to each unique situation, adjusting as needs evolve throughout the journey. |
 
 ## Who We Help
 
