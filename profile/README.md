@@ -20,7 +20,7 @@
 
 ## Who We Are
 
-ORCA Recovery is the public name of the **Organization of Recovery and Crisis Advisors**, a behavioral health crisis consultancy based in New York City and supporting families nationwide.
+The Organization of Recovery and Crisis Advisors is a behavioral health crisis consultancy based in New York City and supporting families nationwide.
 
 We believe that no family should navigate the chaos of addiction or mental health crises alone. Our mission is to guide families and individuals from the darkest moments of crisis into the light of recovery. Through compassionate intervention, personalized case management, and ongoing companionship, we help create a path forward, one that leads to hope, healing, and long-term stability.
 
