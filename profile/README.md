@@ -9,7 +9,7 @@
 <p>
   <a href="https://theorca.com"><b>Website</b></a> &nbsp;&bull;&nbsp;
   <a href="https://www.linkedin.com/company/theorcarecovery"><b>LinkedIn</b></a> &nbsp;&bull;&nbsp;
-  <a href="tel:917-593-1994"><b>Call 917-593-1994</b></a>
+  <a href="tel:917-979-8726"><b>Call 917-979-8726</b></a>
 </p>
 
 <p><b>24/7 Crisis Availability</b> &nbsp;&bull;&nbsp; <b>Board Certified Team</b> &nbsp;&bull;&nbsp; <b>Private and Discreet</b> &nbsp;&bull;&nbsp; <b>Nationwide</b></p>
@@ -73,7 +73,7 @@ Our interventionists bring specialized experience across:
 
 If you are worried about a loved one and aren't sure where to turn, we are here. Reach out for a free, confidential consultation and take the first step toward clarity and support.
 
-- **Phone:** [917-593-1994](tel:917-593-1994)
+- **Phone:** [917-979-8726](tel:917-979-8726)
 - **Email:** [contact@theorca.com](mailto:contact@theorca.com)
 - **Website:** [theorca.com](https://theorca.com)
 - **Office:** 120 E 34th St, New York, NY 10016
